@@ -26,12 +26,9 @@ public final class GeneticAlgorithm {
     public static void main(String[] args) {
         SimpleReader in = new SimpleReader1L();
         SimpleWriter out = new SimpleWriter1L();
-        /*
-         * Put your main program code here
-         */
-        /*
-         * Close input and output streams
-         */
+
+        // First comment :) 
+
         in.close();
         out.close();
     }
