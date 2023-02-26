@@ -1,12 +1,8 @@
 # GeneticAlgorithm
 
-##### Coming soon! 
-
-##### Maybe! 
-
 Brainstorming 
 
-Goal : Binary String, 0s, and 1s
+0s, and 1s
 
 Start : 0000000 |  0 
         0100110 |  3 
