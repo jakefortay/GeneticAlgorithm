@@ -43,6 +43,10 @@ public final class GeneticAlgorithm {
 
     }
 
+    private static void gradePop() {
+
+    }
+
     /**
      * Main method.
      *
@@ -65,7 +69,7 @@ public final class GeneticAlgorithm {
 
         String[] gen = new String[popSize];
 
-//        int random = (int) Math.floor(Math.random() * (10 - 0 + 1) + 0);
+        // Generate initial population 
 
         genPop(lib, popSize, size, gen);
 
